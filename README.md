@@ -1,2 +1,2 @@
 # conquer-template
-A template usng html5 and css3
+A template using html5 and css3
