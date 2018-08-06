@@ -100,7 +100,7 @@ body{
 }
 #group9{
     z-index: 5;
-    height: 500px;
+    height: 250px;
     background-color: white;
 }
 .title{
@@ -282,7 +282,7 @@ h2{
 }
 .bg-3{
     position: absolute;
-    top: -250px;
+    top: -500px;
     left: -250px;
 }
 .contact{
