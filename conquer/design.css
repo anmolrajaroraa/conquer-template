@@ -96,6 +96,7 @@ body{
 #group8{
     z-index: 4;
     height: 500px;
+    overflow: hidden;
 }
 #group9{
     z-index: 5;
